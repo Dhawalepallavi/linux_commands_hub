@@ -92,7 +92,7 @@ As a DevOps engineer, you'll use a variety of commands across different tools an
 - sed 's/foo/bar/g' <file>: Replace all instances of 'foo' with 'bar' in a file.
 - awk '{print $2}' <file>: Print the second column of a file.
 
-**4.User Management:** 
+**5.User Management:** 
 - sudo adduser <username>: Add a new user with superuser privileges.
 - usermod -aG sudo <username>: Add a user to the sudo group.
 - passwd <username>: Change the password for a user.
