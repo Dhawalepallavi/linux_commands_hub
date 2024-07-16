@@ -29,12 +29,6 @@ As a DevOps engineer, you'll use a variety of commands across different tools an
 - killall <process_name>: Terminate all processes with the given name.
 - systemctl <command> <service>: Control the systemd system and service manager (start, stop, restart services).
 - service <service> <command>: Manage services (start, stop, restart).ps: Report a snapshot of current processes.
-- top: Display and update sorted information about processes.
-- htop: Interactive process viewer (requires installation).
-- kill <pid>: Terminate a process by PID.
-- killall <process_name>: Terminate all processes with the given name.
-- systemctl <command> <service>: Control the systemd system and service manager (start, stop, restart services).
-- service <service> <command>: Manage services (start, stop, restart).
   
 ## 3. Networking :
 - ifconfig: Configure a network interface (deprecated in favor of ip command).
